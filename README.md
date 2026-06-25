@@ -7,7 +7,7 @@
 
 <!-- Typing headline -->
 <a href="https://portfolio-site-jade-beta.vercel.app">
-<img src="https://readme-typing-svg.demountable.vercel.app?font=Fira+Code&weight=600&size=22&pause=1000&color=0A9EDC&center=true&vCenter=true&multiline=true&repeat=true&width=720&lines=I+build+Telegram+bots+that+save+businesses+hours;FastAPI+backends+with+tests%2C+Docker%2C+live+demo;AI+%2F+RAG+%2F+automation+%E2%80%94+shipped%2C+not+just+described" alt="Typing" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A9EDC&center=true&vCenter=true&multiline=true&repeat=true&width=720&lines=I+build+Telegram+bots+that+save+businesses+hours;FastAPI+backends+with+tests%2C+Docker%2C+live+demo;AI+%2F+RAG+%2F+automation+%E2%80%94+shipped%2C+not+just+described" alt="Typing" /></a>
 
 <br/>
 
@@ -28,7 +28,7 @@
 <!-- Top langs + trophies -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusizer&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top languages" />
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=yusizer&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusizer&theme=algolia&hide_border=true&area=true" alt="activity graph" width="90%" />
 
 </div>
 
